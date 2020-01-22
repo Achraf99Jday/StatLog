@@ -1,4 +1,4 @@
-# StatKeyLog
+# StatLog
 For now the script just logs your keystrokes and sends you an email of every phrase you write.
 
 **HOW TO USE** 
