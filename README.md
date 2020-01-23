@@ -1,5 +1,5 @@
 # StatLog
-For now the script just logs your keystrokes and sends you an email of every phrase you write.
+For now the script just logs your keystrokes and sends you an email of every phrase you write (in later phases it'll send stats).
 
 **HOW TO USE** 
 
