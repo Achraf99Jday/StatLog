@@ -12,7 +12,7 @@ to turn it into a windows executable :
 
     py -2 -m PyInstaller --windowed --onefile log.py
     
-**TO DO**
+## TO DO
 
 - Update the log.py script to Python 3
 
